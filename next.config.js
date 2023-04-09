@@ -14,6 +14,7 @@ module.exports = withBundleAnalyzer({
       'images.unsplash.com',
       'source.unsplash.com',
       'p1.qhimg.com',
+      'pic1awn.oss-cn-shanghai.aliyuncs.com',
       'webmention.io'
     ]
   },
